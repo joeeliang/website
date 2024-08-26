@@ -1,40 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>Joe Liang</title>
+      <link>https://joeliang.org/public</link>
+      <description>Last 10 notes on Joe Liang</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>1984</title>
-    <link>https://quartz.jzhao.xyz/1984</link>
-    <guid>https://quartz.jzhao.xyz/1984</guid>
-    <description>1984 - Part 1 1984 - Part 2 1984 - Part 3 Notes 1984.</description>
-    <pubDate>Sun, 25 Aug 2024 18:46:13 GMT</pubDate>
+    <title>Tradable Permits RWE</title>
+    <link>https://joeliang.org/public/Tradable-Permits-RWE</link>
+    <guid>https://joeliang.org/public/Tradable-Permits-RWE</guid>
+    <description>Analysis In 2005, European Union Emission Trading System was implemented. It is a cap and trade system that lead to 40% decrease in emissions since implementation.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
   </item><item>
-    <title>1984 Hotspots and Quotes</title>
-    <link>https://quartz.jzhao.xyz/1984-Hotspots-and-Quotes</link>
-    <guid>https://quartz.jzhao.xyz/1984-Hotspots-and-Quotes</guid>
-    <description>Digital to Paperback conversion: 209/214 www.sparknotes.com/lit/1984/quotes/theme/manipulation-of-history/ Who controls the past controls the future. Who controls the present controls the past.</description>
-    <pubDate>Sun, 25 Aug 2024 18:46:13 GMT</pubDate>
+    <title>Subsidy RWE</title>
+    <link>https://joeliang.org/public/Subsidy-RWE</link>
+    <guid>https://joeliang.org/public/Subsidy-RWE</guid>
+    <description>Analysis in 2000, Germany had a subsidy on renewable energy. Grants and loans too. Evaluation Pros Environmental benefit. Decreased CO2 emissions by 25% between 1990 and now.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
   </item><item>
-    <title>1984 - Part 2</title>
-    <link>https://quartz.jzhao.xyz/1984---Part-2</link>
-    <guid>https://quartz.jzhao.xyz/1984---Part-2</guid>
-    <description>The Book, Chapter III - War is Peace.</description>
-    <pubDate>Sun, 25 Aug 2024 18:46:13 GMT</pubDate>
+    <title>Recession</title>
+    <link>https://joeliang.org/public/Recession</link>
+    <guid>https://joeliang.org/public/Recession</guid>
+    <description>Diagram Evaluation economics.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
   </item><item>
-    <title>1984 - Part 1</title>
-    <link>https://quartz.jzhao.xyz/1984---Part-1</link>
-    <guid>https://quartz.jzhao.xyz/1984---Part-1</guid>
-    <description>Chapter 1 Provides setting. The story is based on the dystopian depiction of London in war, where it is now part of a continent called “Oceania”. Opens diary: This was pretty significant, and in it, he alludes the how no one cares what the proles do.</description>
-    <pubDate>Sun, 25 Aug 2024 18:46:13 GMT</pubDate>
+    <title>Real World Examples</title>
+    <link>https://joeliang.org/public/Real-World-Examples</link>
+    <guid>https://joeliang.org/public/Real-World-Examples</guid>
+    <description>Economics HL Use ai to generate, in template. Put each new one into a new note. Link to each note in this real world examples sheet, separating by chapter and catagory.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Sun, 25 Aug 2024 18:28:31 GMT</pubDate>
+    <title>Price Floor RWE</title>
+    <link>https://joeliang.org/public/Price-Floor-RWE</link>
+    <guid>https://joeliang.org/public/Price-Floor-RWE</guid>
+    <description>Analysis In 2011, price floor for rice in Thailand, from 12,000 Baht a tonne to 15,000. 10 Billion bahts allotted to this. Evaluation Short Run Increase in income for farmers.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
+  </item><item>
+    <title>Price Ceiling RWE</title>
+    <link>https://joeliang.org/public/Price-Ceiling-RWE</link>
+    <guid>https://joeliang.org/public/Price-Ceiling-RWE</guid>
+    <description>Analysis In 2014, Venezuela implemented a price ceiling on many essential goods, including food, medicine, and household items. The government set a maximum price that retailers could charge for these goods, in an attempt to control inflation and make them more affordable for low-income households.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
+  </item><item>
+    <title>Positive Production RWE</title>
+    <link>https://joeliang.org/public/Positive-Production-RWE</link>
+    <guid>https://joeliang.org/public/Positive-Production-RWE</guid>
+    <description>Example Research Direct The US National Science foundation, in partnership with the Bill and Melinda Gates Foundation, launches a program to provide government funding for private ...</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
+  </item><item>
+    <title>Positive Consumption RWE</title>
+    <link>https://joeliang.org/public/Positive-Consumption-RWE</link>
+    <guid>https://joeliang.org/public/Positive-Consumption-RWE</guid>
+    <description>Example Education, vaccination leads to benefit of the whole of society, including lower unemployment, lower crime rates, and higher economic growth. Direct Government Provision Sri Lanka literacy rate is 85%, so government provides free education up to age of 16.</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
+  </item><item>
+    <title>Negative Production RWE</title>
+    <link>https://joeliang.org/public/Negative-Production-RWE</link>
+    <guid>https://joeliang.org/public/Negative-Production-RWE</guid>
+    <description>Example Fossil Fuels Carbon Correction Policies Pigouvian Taxes RWE Carbon Taxes RWE Tradable Permits RWE Collective Self Governance RWE Comparing Carbon Tax and Tradable Permit ...</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
+  </item><item>
+    <title>Negative Consumption RWE</title>
+    <link>https://joeliang.org/public/Negative-Consumption-RWE</link>
+    <guid>https://joeliang.org/public/Negative-Consumption-RWE</guid>
+    <description>Analysis The Hong Kong government is concerned with the negative social impact of cigarette consumption, which includes healthcare and second-hand smoking costs ...</description>
+    <pubDate>Mon, 26 Aug 2024 04:24:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
